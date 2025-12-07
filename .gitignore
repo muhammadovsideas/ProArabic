@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Django stuff
+*.log
+staticfiles/
+media/
+
+# SQLite database
+db.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MyPy, pytype, coverage
+.mypy_cache/
+.pytype/
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Cache
+*.cache
